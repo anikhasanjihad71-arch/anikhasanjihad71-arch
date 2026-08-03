@@ -135,8 +135,6 @@ Flutter-powered mobile app with Firebase integration and seamless navigation.
 <img src="https://raw.githubusercontent.com/anikhasanjihad71-arch/anikhasanjihad71-arch/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 </div>
 
-> This animated snake needs a one-time setup — see **`snake-workflow.yml`** below.
-
 <br/>
 
 <div align="center">
