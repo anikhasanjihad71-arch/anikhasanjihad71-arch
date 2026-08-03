@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="https://anik-hasan-jihad.vercel.app/"><img src="https://img.shields.io/badge/🌐_View_My_Portfolio-2EE6A6?style=flat&logoColor=05070C" /></a>
+<a href="https://anikhasanjihad.vercel.app/"><img src="https://img.shields.io/badge/🌐_View_My_Portfolio-2EE6A6?style=flat&logoColor=05070C" /></a>
 
 <br/><br/>
 
